@@ -1,13 +1,20 @@
 /*
-Q.1 Write a Program to find the length of a string using a Pointer.
+Q.2 Write a Program to find cubes of all elements from a given 2D array using Pointer with UDF.
 For example,
 Input:
-Enter any string: hello world
+Enter array's size: 2
+
+Enter array elements:
+a[0][0] = 3
+a[0][1] = 2
+a[1][0] = 5
+a[1][1] = 4
 
 Output:
-The length of a string is: 11
-
-	*/
+Cubes of all elements:
+27    8
+125 64
+*/
 
 #include<stdio.h>
  main(){
